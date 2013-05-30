@@ -5,6 +5,6 @@ int main()
 {
 	cout<<"Hello world"<<endl;
 	cout<<"Modification"<<endl;
-	cout<<"Pouet"<<endl;
+	cout<<"Pouet modifié"<<endl;
 	return 0;
 }
