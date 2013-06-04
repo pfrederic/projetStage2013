@@ -1,8 +1,12 @@
 Compte rendu synthétique du stage.
 
-Jour1 : 03/05/2013
--Présentation des différents responsable informatique et visite des locaux.
+Jour1 : 03/06/2013
+-Présentation des différents responsables informatique et visite des locaux.
 -Prise en charge de l'ordinateur portable d'un élève.
 -Recherche d'un navigateur web pour tablet iPad, prenant en compte les flashs.
--Installation en local d'un CMS (joomla), et tout les complément nécessaire (base de données, serveur apache2, ...) pour créer un site.
--Récupération de fichier nécessaire pour la création de fichier (contenu, image, ...).
+-Installation en local d'un CMS (joomla), et tout les compléments nécessaires (base de données, serveur apache2, ...) pour créer un site.
+-Récupération de fichiers nécessaires pour la création du site (contenu, image, ...).
+
+Jour 2 : 04/06/2013
+-Suite des travaux sur le site sur Joomla. Modification de la bannière, de l'icone d'en-tête, changement du pied de page. Changement du fond du site. Création d'articles avec du contenu et organisation dans ce dernier sur le site. Changement de position de la zone d'authentification.
+-Dépannage régulier de divers problèmes sur les ordinateurs portables des élèves (problèmes de démarrage, chute d'un ordinateur, problème avec le navigateur, ...).
