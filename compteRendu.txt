@@ -17,3 +17,10 @@ Jour 3 : 05/06/2013
 -Conversation avec mon tuteur de stage sur la présentation du site et de la charte graphique.
 -Recherche de template pour joomla en accord avec la conversation.
 -Quelques dépannage pour des élèves mais aussi du personnel du lycée.
+
+Jour 4 : 06/06/2013
+-Trouvaille d'un template (Gantry), et installation de celui-ci.
+-Apprentisage et prise en main du nouvel outil.
+-Adaptation du template, changement de l'interface (dépublication de certains module, ajout de l'icône dans l'en-tête).
+-Trouver une image adapté et surtout libre de droit.
+-Dépannage occasionnel d'ordinateur d'élève.
