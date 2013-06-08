@@ -24,3 +24,8 @@ Jour 4 : 06/06/2013
 -Adaptation du template, changement de l'interface (dépublication de certains module, ajout de l'icône dans l'en-tête).
 -Trouver une image adapté et surtout libre de droit.
 -Dépannage occasionnel d'ordinateur d'élève.
+
+Jour 5  : 07/06/2013
+-Suite des travaux sur l'autre version du site des BTS (rédaction des articles, organisation des pages avec les différents modules).
+-Dépannage occasionnel d'ordinateur d'élève.
+
