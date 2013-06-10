@@ -29,3 +29,8 @@ Jour 5  : 07/06/2013
 -Suite des travaux sur l'autre version du site des BTS (rédaction des articles, organisation des pages avec les différents modules).
 -Dépannage occasionnel d'ordinateur d'élève.
 
+Jour 6 : 10/06/2013
+-Suite de la rédaction des articles sur la nouvelle version du site.
+-Intégration des carte Google Maps pointant sur les différents établissements.
+-Création de modules pour l'organisation des articles pour éviter de récrire certaines parties de l'article.
+-Dépannages occassionels.
