@@ -34,3 +34,7 @@ Jour 6 : 10/06/2013
 -Intégration des carte Google Maps pointant sur les différents établissements.
 -Création de modules pour l'organisation des articles pour éviter de récrire certaines parties de l'article.
 -Dépannages occassionels.
+
+Jour : 7 11/06/2013
+-Suite et fin de la rédaction des articles ainsi que des modules qui les accopagne.
+-Nombreux dépannage éffectué auprès des élèves.
