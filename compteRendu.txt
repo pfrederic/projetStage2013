@@ -41,10 +41,11 @@ Jour 7 : 11/06/2013
 
 Jour 8 : 12/06/2013
 -Finition du site de l'isg/ism.
--Début d'un nouveau projet. Application de gestion des ateliers du lycée.
+-Début d'un nouveau projet. Application de gestion des ateliers du lycée. Prise de connaissance des besoins du projet, mise en place du l'environnement de travail, et création de la base de données
+-Début de quelques script en PHP
 -Dépannage effectué auprès des élèves.
 
 Jour 9 : 13/6/2013
--Suite des travaux sur l'application de gestion des ateliers du lycée
--Assistance des responsable informatique pour récupérer les carte SD aurpès des élève directement dans les classes.
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création des script PHP
+-Assistance des responsables informatique pour récupérer les cartes SD aurpès des élèves directement dans les classes.
 -Dépannage occassionnel des élèves.
