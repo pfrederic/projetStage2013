@@ -46,6 +46,10 @@ Jour 8 : 12/06/2013
 -Dépannage effectué auprès des élèves.
 
 Jour 9 : 13/6/2013
--Suite des travaux sur l'application de gestion des ateliers du lycée, création des script PHP
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création des scripts PHP.
 -Assistance des responsables informatique pour récupérer les cartes SD aurpès des élèves directement dans les classes.
 -Dépannage occassionnel des élèves.
+
+Jour 10 : 14/06/2013
+-Suite des travaux sur l'application de gestion des atelier du lycée, création et modification des scripts PHP.
+-Dépannage nombreux des élèves.
