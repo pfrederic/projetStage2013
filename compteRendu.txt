@@ -51,5 +51,10 @@ Jour 9 : 13/6/2013
 -Dépannage occassionnel des élèves.
 
 Jour 10 : 14/06/2013
--Suite des travaux sur l'application de gestion des atelier du lycée, création et modification des scripts PHP.
--Dépannage nombreux des élèves.
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création et modification des scripts PHP.
+-Dépannage de nombreux des élèves.
+
+Jour 11 : 17/06/2013
+-Suite des travaux sur l'application de gestion des ateliers du lycées, création et modification des scripts PHP
+-Visite de notre prof d'informatique sur notre lieux de stage
+-Dépannage de nombreux des élèves
