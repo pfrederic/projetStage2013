@@ -55,6 +55,15 @@ Jour 10 : 14/06/2013
 -Dépannage de nombreux des élèves.
 
 Jour 11 : 17/06/2013
--Suite des travaux sur l'application de gestion des ateliers du lycées, création et modification des scripts PHP
--Visite de notre prof d'informatique sur notre lieux de stage
--Dépannage de nombreux des élèves
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création et modification des scripts PHP.
+-Visite de notre prof d'informatique sur notre lieux de stage.
+-Dépannage de nombreux des élèves.
+
+Jour 12 : 18/06/2013
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création et modification des scripts PHP.
+-Entretien avec mon tuteur de stage, pour une mise au point de mise stage sur l'avancement des projets.
+-Dépannage d'ordinateurs occasionnels
+
+Jour 13 : 19/06/2013
+-Suite des travaus sur l'application de gestion des atelier du lycée, création et modification des scripts PHP.
+-Dépannage d'ordinateurs occasionnels
