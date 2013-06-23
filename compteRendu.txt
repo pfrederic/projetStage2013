@@ -65,7 +65,16 @@ Jour 12 : 18/06/2013
 -Dépannage d'ordinateurs occasionnels.
 
 Jour 13 : 19/06/2013
--Suite des travaus sur l'application de gestion des atelier du lycée, création et modification des scripts PHP.
+-Suite des travaux sur l'application de gestion des atelier du lycée, création et modification des scripts PHP.
 -Rendez-vous multi-service, pour la présentation du site de l'ISG/ISM, aurprès de monsieur Gilles.
 -Modification sur la seconde version du site de l'ISG/ISM.
 -Dépannage d'ordinateurs occasionnels.
+
+Jour 14 : 20/06/2013
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création et modification des scripts php.
+-Dépannage d'ordinateurs
+-Visite de notre professeur d'économie droit management
+
+Jour 15 : 21/06/2013
+-Suite des travaux sur l'application de gestion des ateliers du lycée, création et modification des scripts php.
+-Dépannage occasionnel.
