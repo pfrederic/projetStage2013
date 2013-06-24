@@ -78,3 +78,7 @@ Jour 14 : 20/06/2013
 Jour 15 : 21/06/2013
 -Suite des travaux sur l'application de gestion des ateliers du lycée, création et modification des scripts php.
 -Dépannage occasionnel.
+
+Jour 16 : 24/06/2013
+-Suite des travaux sur l'application de gestions des ateliers du lycée, script permettant de créer un bulletin au format PDF.
+-Dépannage occasionnel.
