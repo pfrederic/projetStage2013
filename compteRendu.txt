@@ -82,3 +82,13 @@ Jour 15 : 21/06/2013
 Jour 16 : 24/06/2013
 -Suite des travaux sur l'application de gestions des ateliers du lycée, script permettant de créer un bulletin au format PDF.
 -Dépannage occasionnel.
+
+Jour 17 : 25/06/2013
+-Suite des travaux sur l'application de gestions des ateliers du lycée, script permettant de créer un bulletin au format PDF.
+-Dépannage d'ordinateur.
+
+Jour 18 : 26/06/2013
+-Suite et fin des travaux sur l'application de gestions des ateliers du lycée, script permettant de créer un bulletin au format PDF.
+-Création des différentes documentation pour l'utilisation du site de Joomla!
+-Dépannage occasionnel.
+
